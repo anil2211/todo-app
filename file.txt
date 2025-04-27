@@ -16,3 +16,4 @@ nodemon server.js
 use mongo db online
 on package.json- "start": "node server.js"
 npm start
+use mongodb atlas-create project and then create cluster create username and password select data services,database access
